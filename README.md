@@ -2,6 +2,8 @@
 
 A Flutter app that demonstrates animated bookshelf customization with interactive wood shelves and lighting effects.
 
+![Uploading IMG_4764-ezgif.com-video-to-gif-converter.gif…]()
+
 ## Features
 
 - **Interactive Bookshelf**: Animated wood shelves that slide in and out
